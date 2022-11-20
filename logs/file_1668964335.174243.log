@@ -1,0 +1,124 @@
+2022-11-20 20:12:20.997 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'lilyland_shop' 
+2022-11-20 20:12:23.017 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:12:26.563 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'zarianavolkova' 
+2022-11-20 20:12:28.583 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:12:30.384 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'gyro_school' 
+2022-11-20 20:12:32.395 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:12:34.222 | INFO     | stories_viewer:open_stories:16 - Open stories of account '_insta_obyva4e4ka_' 
+2022-11-20 20:12:36.242 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:12:37.998 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'minny_for_kids' 
+2022-11-20 20:12:40.075 | INFO     | stories_viewer:start_viewing:25 - Start viewing
+2022-11-20 20:12:42.624 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:43.167 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:43.731 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:44.268 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:44.816 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:45.388 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:45.997 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:46.011 | INFO     | stories_viewer:next_story:40 - No more stories in the account
+2022-11-20 20:12:47.609 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'world_glamour_lux_2' 
+2022-11-20 20:12:49.673 | INFO     | stories_viewer:start_viewing:25 - Start viewing
+2022-11-20 20:12:52.210 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:52.748 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:53.303 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:53.856 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:54.395 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:54.937 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:55.514 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:56.052 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:56.589 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:57.124 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:57.662 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:58.225 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:58.763 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:59.320 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:12:59.890 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:12:59.910 | INFO     | stories_viewer:next_story:40 - No more stories in the account
+2022-11-20 20:13:01.507 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'campus__store' 
+2022-11-20 20:13:03.524 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:05.232 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'questhousekrg' 
+2022-11-20 20:13:07.256 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:08.982 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'npkmix' 
+2022-11-20 20:13:10.993 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:12.706 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'chokkaev_95' 
+2022-11-20 20:13:14.721 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:16.272 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'secretmaniya' 
+2022-11-20 20:13:18.289 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:20.118 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'zvukoizolyaciya_akustika_05_95' 
+2022-11-20 20:13:22.137 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:23.961 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'raya_tatushkina' 
+2022-11-20 20:13:25.981 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:27.461 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'detskieveshchi___' 
+2022-11-20 20:13:29.482 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:31.300 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'baunty_style' 
+2022-11-20 20:13:33.315 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:35.120 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'avevita_plantis' 
+2022-11-20 20:13:37.139 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:38.859 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'bint.al_shishani' 
+2022-11-20 20:13:40.882 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:42.486 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'baraxolka_artem_zavodskoi' 
+2022-11-20 20:13:44.506 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:46.270 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'minutka_cosmo' 
+2022-11-20 20:13:48.281 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:50.269 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'milano.spb' 
+2022-11-20 20:13:52.281 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:53.861 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'celebrate.it' 
+2022-11-20 20:13:55.869 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:13:57.606 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'sport_stylepro' 
+2022-11-20 20:13:59.618 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:01.273 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'baby_world_planet' 
+2022-11-20 20:14:03.292 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:05.124 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'youlikestar' 
+2022-11-20 20:14:07.136 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:09.115 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'krikritsilurnik07' 
+2022-11-20 20:14:11.126 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:12.736 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'perevozki_stahanov' 
+2022-11-20 20:14:14.755 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:16.519 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'centr_fitnessa_i_sporta' 
+2022-11-20 20:14:18.531 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:20.440 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'sonya.miroshkina' 
+2022-11-20 20:14:22.453 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:24.407 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'k_shop.ua' 
+2022-11-20 20:14:26.422 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:28.077 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'club_citrus_platova83' 
+2022-11-20 20:14:30.095 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:31.979 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'shoesreport' 
+2022-11-20 20:14:33.995 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:35.723 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'sizzze.store' 
+2022-11-20 20:14:37.743 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:39.436 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'odejkin_ua' 
+2022-11-20 20:14:41.454 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:43.089 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'opt_kross_cn' 
+2022-11-20 20:14:45.121 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:46.841 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'mikki_top' 
+2022-11-20 20:14:48.854 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:14:50.602 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'amnjeans' 
+2022-11-20 20:14:52.686 | INFO     | stories_viewer:start_viewing:25 - Start viewing
+2022-11-20 20:14:54.704 | ERROR    | stories_viewer:like:51 - Not found button 'Like'
+2022-11-20 20:14:54.712 | INFO     | stories_viewer:next_story:40 - No more stories in the account
+2022-11-20 20:14:56.825 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'postelnoe_turkmen_astana' 
+2022-11-20 20:14:58.843 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:00.462 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'oustagro' 
+2022-11-20 20:15:02.481 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:04.236 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'shmotochka_krd' 
+2022-11-20 20:15:06.248 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:10.199 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'obuvka_shop_555' 
+2022-11-20 20:15:12.215 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:14.002 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'grand_stroj' 
+2022-11-20 20:15:16.191 | INFO     | stories_viewer:start_viewing:25 - Start viewing
+2022-11-20 20:15:18.743 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:15:19.316 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:15:19.874 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:15:19.893 | INFO     | stories_viewer:next_story:40 - No more stories in the account
+2022-11-20 20:15:22.087 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'agunion_ru' 
+2022-11-20 20:15:24.107 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:26.652 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'sergej_sadov' 
+2022-11-20 20:15:28.735 | INFO     | stories_viewer:start_viewing:25 - Start viewing
+2022-11-20 20:15:31.279 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:15:31.847 | INFO     | stories_viewer:next_story:37 - Vied story
+2022-11-20 20:15:32.420 | INFO     | stories_viewer:like:49 - Liked story
+2022-11-20 20:15:32.476 | INFO     | stories_viewer:next_story:40 - No more stories in the account
+2022-11-20 20:15:34.183 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'semkom36' 
+2022-11-20 20:15:36.196 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
+2022-11-20 20:15:37.903 | INFO     | stories_viewer:open_stories:16 - Open stories of account 'art.in.moscow' 
+2022-11-20 20:15:39.917 | ERROR    | stories_viewer:start_viewing:29 - Not found button 'View story'
