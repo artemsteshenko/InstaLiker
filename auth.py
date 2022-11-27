@@ -7,7 +7,6 @@ from time import sleep
 from random import uniform
 from selenium.webdriver.common.by import By
 
-from selenium import webdriver
 
 def auth_with_cookies(browser, login, cookie_path=tempfile.gettempdir()):
     # logger.save_screen_shot(browser, 'login.png')
@@ -51,7 +50,7 @@ def auth_with_credentials(browser, login, password, cookie_path=tempfile.gettemp
     sleep(uniform(0.6, 1))
     # logger.log("--->AuthWithCreds: saving cookies.")
     pickle.dump([browser.get_cookies()], open(os.path.join(cookie_path, login + '.pkl'), "wb"))
-    print(browser.get_cookies()[-1])
+    # print(browser.get_cookies()[-1])
     if check_if_user_authenticated(browser):
         # logger.log("Successful authorization with credentials.")
         return True
