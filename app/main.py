@@ -6,7 +6,7 @@ from random import uniform
 from selenium.webdriver.common.by import By
 from loguru import logger
 
-from auth import auth_with_cookies, auth_with_credentials
+from app.auth import auth_with_cookies, auth_with_credentials
 from stories_viewer import StoriesViewer
 from proxy import get_chromedriver
 
